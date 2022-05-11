@@ -1,0 +1,9 @@
+1) Ввести текст;
+2) Нажать esc;
+3) Нажать :wq;
+4) Нажать Enter;
+5) git add . ;
+6) git commit -m "";
+7) git push;
+8) Перейти в GitHub;
+9) Сделать pull requests в main;
